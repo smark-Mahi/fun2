@@ -1,0 +1,106 @@
+.ggg{
+height: 8px;
+background: rgb(26,36,0);
+backdrop-filter: blur;
+background: linear-gradient(90deg, rgba(26,36,0,1) 0%, rgba(35,46,22,1) 5%, rgba(24,61,19,1) 13%, rgba(21,67,15,1) 22%, rgba(121,58,9,1) 34%, rgba(80,16,45,1) 43%, rgba(32,103,110,1) 51%, rgba(27,45,135,1) 51%, rgba(40,162,21,1) 62%, rgba(174,31,171,1) 71%, rgba(191,75,87,1) 78%, rgba(148,132,122,1) 86%, rgba(0,212,255,1) 93%, rgba(38,67,223,1) 97%);
+}
+.ooo{
+    background-color: rgba(171, 221, 204, 0.479);
+}
+.ttt{
+    padding-top: 58px;
+    padding-bottom: 28px;
+    background-size: cover;
+    color: white;
+    font-style: italic;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPkgI2HsQ6DnGknIox785oJWq5APWsTeLSyw&usqp=CAU)
+}
+.ppp{
+    background-color: rgba(171, 221, 204, 0.856);
+}
+.feature-holder h2{
+    font-size: 20px;
+}
+.feature-holder h3{
+    font-size: 20px;
+}
+.feature-holder p{
+    font-size: small;
+}
+.feature-holder{
+    text-align: center;
+}
+.fff{
+    background-color: rgba(184, 168, 149, 0.342);
+}
+.bird-house{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.bird-house h3{
+    font-size: 25px;
+}
+
+.tp{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgba(184, 168, 149, 0.342);
+
+        
+    
+}
+.www {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.www :hover{
+box-shadow: 3px 2px 3px 4px rgba(80, 77, 77, 0.233);
+}
+.mmm{
+    color: black;
+}
+.aaa{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+.right{
+    height: 9px;
+    background: rgb(97,42,17);
+background: linear-gradient(90deg, rgba(97,42,17,1) 0%, rgba(35,46,22,1) 5%, rgba(130,33,115,1) 10%, rgba(129,85,36,1) 13%, rgba(113,124,33,1) 18%, rgba(21,67,15,1) 22%, rgba(121,58,9,1) 34%, rgba(80,16,45,1) 43%, rgba(32,103,110,1) 51%, rgba(27,45,135,1) 51%, rgba(40,162,21,1) 62%, rgba(174,31,171,1) 71%, rgba(191,75,87,1) 78%, rgba(148,132,122,1) 86%, rgba(0,212,255,1) 93%, rgba(38,67,223,1) 97%);
+}
+.nnn{
+    position: absolute;
+    line-height: 50px;
+    text-align: center;
+    
+}
+.eee{
+    color: yellow;
+}
+.main-footer{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: rgba(27, 24, 24, 0.726);
+    
+}
+.main-footer ul{
+    list-style: none;
+}
+.kkk{
+    color: white;
+}
+.cycy{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: black;
+}
+.fight{
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
